@@ -4,7 +4,7 @@
 ![Customer Dashboard](https://github.com/AtharvaGudur/Ecommerce-sales-insights-dashboard/blob/main/Customer_Order_Analytics.png)
 
 ## Ecommerce Sales Dashboard
-![Ecommerce Dashboard]()
+![Ecommerce Dashboard](https://github.com/AtharvaGudur/Ecommerce-sales-insights-dashboard/blob/main/Ecommerce_Sales_Dashboard.png)
 
 Project Description:
 This project presents a comprehensive retail analytics solution developed using Power BI, aimed at analyzing customer behavior, sales performance, and overall business trends.

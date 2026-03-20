@@ -1,10 +1,10 @@
 # Ecommerce-sales-insights-dashboard
 
 ## Customer Behavior Dashboard
-![Customer Dashboard](customer_dashboard.png)
+![Customer Dashboard](Customer%20Dashboard.png)
 
 ## Ecommerce Sales Dashboard
-![Ecommerce Dashboard](ecommerce_dashboard.png)
+![Ecommerce Dashboard](Ecommerce%20Dashboard.png)
 
 Project Description:
 This project presents a comprehensive retail analytics solution developed using Power BI, aimed at analyzing customer behavior, sales performance, and overall business trends.

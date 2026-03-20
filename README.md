@@ -1,6 +1,7 @@
 # Ecommerce-sales-insights-dashboard
 
 ![Customer Behavior Dashboard](./images/Customer_Order_Analytics.png)
+
 ![Ecommerce Sales Dashboard](./images/Ecommerce_Sales_Dashboard.png)
 
 Project Description:
